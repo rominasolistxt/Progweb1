@@ -13,6 +13,8 @@ nav {
     background-position: center;
     height: 250px;
     color: #FFFFFF;
+    display: inline-block;
+    padding: 20px;
 }
 
 .menu a {
